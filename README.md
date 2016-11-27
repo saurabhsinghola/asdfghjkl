@@ -1,50 +1,27 @@
-#Simple Express Static File Server
+# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-A very simple static file server. For development use only.
+[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-##Installation
+## Getting Started
 
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
+* Fork the repo
 
-### Using as a local module (recommended)
+## Bugs and Issues
 
-    $ npm install spadin/simple-express-static-server
-    $ ./node_modules/.bin/simple-server my/public/dir
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
 
+## Creator
 
-### Using the server as a global module
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-    $ sudo npm install -g spadin/simple-express-static-server
-    $ simple-server my/public/dir
-    
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-    
-## Contribute
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Install dependencies (first time only):
+## Copyright and License
 
-   $ npm install
-
-How to start:
-
-    $ node server
-
-Open [http://localhost:4567](http://localhost:4567)
-
-If you need a different port:
-
-    $ PORT=9999 node server
-
-Open [http://localhost:9999](http://localhost:9999)
-
-If you need a different hostname:
-
-    $ HOSTNAME=192.168.0.1 node server
-
-Open [http://192.168.0.1:4567](http://192.168.0.1:4567)
-
-## Copyright and license
-
-Code and documentation copyright 2013-2016 Sandro Padin. Code released under [the MIT license](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
-
-
-
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
